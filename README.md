@@ -21,7 +21,6 @@ Eu tenho 29 anos e sou formada em Cenografia pela Universidade Federal do Rio de
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rachellesdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rachelle-santolin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
@@ -29,6 +28,3 @@ Eu tenho 29 anos e sou formada em Cenografia pela Universidade Federal do Rio de
 
 <a href="http://www.github.com/rachellesdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachellesdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rachellesdev"><img src="https://activity-graph.herokuapp.com/graph?username=rachellesdev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/rachellesdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachellesdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
