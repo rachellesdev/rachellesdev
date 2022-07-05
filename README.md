@@ -6,7 +6,7 @@ Desenvolvedora Full Stack Jr | HTML | CSS | JavaScript
 
 Eu tenho 29 anos e sou formada em Cenografia pela Universidade Federal do Rio de Janeiro. No final do ano de 2021 decidi fazer minha transição de carreira e me tornar uma desenvolvedora full stack. Em março de 2022 entrei no bootcamp da Resilia Educação e desde então tenho me dedicado 100% ao desenvolvimento das minhas habilidades techs e também soft. Comecei com HTML e CSS e no momento estou me dedicando a aprender o máximo que posso em Javascript.
 
-* 🌍  Eu moro no Rio de Janeiro
+* 🌍  Moro no Rio de Janeiro
 * ✉️  Você pode me contactar pelo meu email [rachelle.santolin@gmail.com](mailto:rachelle.santolin@gmail.com)
 * 🧠  Eu estou aprendendo Javascript
 
