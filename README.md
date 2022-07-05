@@ -8,7 +8,7 @@ Eu tenho 29 anos e sou formada em Cenografia pela Universidade Federal do Rio de
 
 * 🌍  Moro no Rio de Janeiro
 * ✉️  Você pode me contactar pelo meu email [rachelle.santolin@gmail.com](mailto:rachelle.santolin@gmail.com)
-* 🧠  Eu estou aprendendo Javascript
+* 🧠  Eu estou aprendendo Node.js
 
 ### Skills
 
